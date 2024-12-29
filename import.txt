@@ -1,0 +1,6 @@
+pandas
+numpy
+keras
+tabulate
+matplotlib
+scikit-learn
